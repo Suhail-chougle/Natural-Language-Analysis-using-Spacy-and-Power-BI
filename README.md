@@ -21,3 +21,5 @@ Power BI Dashboard:
 The Power BI dashboard serves as a one-point information center for presenting the key findings and insights from the NLP analysis. I provide a detailed overview of the dashboard's design and layout, describing the various visualizations used to represent the data effectively. The interactive nature of the dashboard allows users to explore and understand the results effortlessly.
 
 Feel free to explore the code, visualizations, and insights provided in this repository. I am continuously updating the project as I make improvements, and your feedback and contributions are highly appreciated. Together, let's uncover valuable knowledge from the world of journal articles through the power of natural language processing and data visualization!
+
+There are a total of five text files for analysis and one "untitled" which contains the code
